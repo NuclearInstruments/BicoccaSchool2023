@@ -1,0 +1,9 @@
+{"Registers":[
+{
+  "Name": "ANALOG_OFFSET",
+  "Address": 4294967289,
+  "RegionSize": 1,
+  "Description": "",
+  "Category": "AnalogAFE"
+}],
+"MMCComponents":[],"Device":"SCIDK","Project":"blkled"}

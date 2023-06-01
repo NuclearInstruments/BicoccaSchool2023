@@ -1,0 +1,36 @@
+{
+  "Device": "SCIDK",
+  "Registers": [
+    {
+      "Name": "A",
+      "Address": 0,
+      "RegionSize": 1,
+      "Description": "",
+      "Category": "Undefined"
+    },
+    {
+      "Name": "B",
+      "Address": 1,
+      "RegionSize": 1,
+      "Description": "",
+      "Category": "Undefined"
+    },
+    {
+      "Name": "C",
+      "Address": 2,
+      "RegionSize": 1,
+      "Description": "",
+      "Category": "Undefined"
+    },
+    {
+      "Name": "ANALOG_OFFSET",
+      "Address": 4294967289,
+      "RegionSize": 1,
+      "Description": "",
+      "Category": "AnalogAFE"
+    }
+  ],
+  "Version": 0.0,
+  "GenerationData": "0001-01-01T00:00:00",
+  "MMCComponents": []
+}
